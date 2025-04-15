@@ -1,0 +1,1 @@
+python-dotenv&gt;=1.0.0
