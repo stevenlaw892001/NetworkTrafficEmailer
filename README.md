@@ -98,7 +98,7 @@ This Python script automates sending daily network traffic reports via email wit
 
 ## Contributing
 
-Suggestions for improvements are welcome! Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure respectful and inclusive interactions.
+Want to contribute? Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on submitting issues and pull requests. Kindly review our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure respectful interactions.
 
 ## License
 
