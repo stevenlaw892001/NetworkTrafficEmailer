@@ -30,7 +30,7 @@ This Code of Conduct applies to all project spaces, including GitHub Issues, Pul
 
 ## Enforcement
 
-If you experience or witness unacceptable behavior, please report it by opening a GitHub Issue or contacting me via my GitHub profile (@your-username). All reports will be reviewed and handled confidentially and appropriately.
+If you experience or witness unacceptable behavior, please report it by opening a GitHub Issue or contacting me via my GitHub profile (@stevenlaw892001). All reports will be reviewed and handled confidentially and appropriately.
 
 ## Attribution
 
